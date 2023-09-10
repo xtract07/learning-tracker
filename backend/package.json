@@ -1,0 +1,29 @@
+{
+  "name": "learning-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "bun run index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xtract07/learning-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xtract07/learning-tracker/issues"
+  },
+  "homepage": "https://github.com/xtract07/learning-tracker#readme",
+  "devDependencies": {
+    "bun-types": "^1.0.1"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "figlet": "^1.6.0"
+  }
+}
